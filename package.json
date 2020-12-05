@@ -1,0 +1,24 @@
+{
+  "name": "Git-a-web-dev-job-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erol-eyupoglu/Git-a-web-dev-job-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erol-eyupoglu/Git-a-web-dev-job-course/issues"
+  },
+  "homepage": "https://github.com/erol-eyupoglu/Git-a-web-dev-job-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  }
+}
